@@ -1,1 +1,2 @@
-print("het h shah")
+x = 10
+print(x)
